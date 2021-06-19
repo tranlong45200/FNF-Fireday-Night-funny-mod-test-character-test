@@ -67,39 +67,5 @@
         "auDown": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/tabi/Ghi%20%C3%A2m%20c%E1%BB%A7a%20t%C3%B4i%201%20(mp3cut.net)%20(1).wav",
         "auUp": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/tabi/Ghi%20%C3%A2m%20c%E1%BB%A7a%20t%C3%B4i%201%20(mp3cut.net)%20(2).wav",
         "auRight": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/tabi/Ghi%20%C3%A2m%20c%E1%BB%A7a%20t%C3%B4i%201%20(mp3cut.net)%20(3).wav"
-    },
-    {
-        "icon": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/Miku/Miku_Icon_%2528New%2529.png",
-        "picNomal": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/Miku/MikuAnim.gif",
-        "picLeft": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/Miku/MikuLeftAnim.gif",
-        "picDown": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/Miku/MikuDownAnim.gif",
-        "picUp": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/Miku/MikuUpAnim.gif",
-        "picRight": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/Miku/MikuRightAnim.gif",
-        "auLeft": "",
-        "auDown": "",
-        "auUp": "",
-        "auRight": ""
-    }, {
-        "icon": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/Sarvente/Sarvente_icon.png",
-        "picNomal": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/Sarvente/SarventeAnim.gif",
-        "picLeft": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/Sarvente/SarventeLeftAnim.gif",
-        "picDown": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/Sarvente/SarventeDownAnim.gif",
-        "picUp": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/Sarvente/SarventeUpAnim.gif",
-        "picRight": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/Sarvente/SarventeRightAnim.gif",
-        "auLeft": "",
-        "auDown": "",
-        "auUp": "",
-        "auRight": ""
-    }, {
-        "icon": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/hex/Hex_Icon.png",
-        "picNomal": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/hex/HexVirusAnim.gif",
-        "picLeft": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/hex/HexVirusLeftAnim.gif",
-        "picDown": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/hex/HexVirusDownAnim.gif",
-        "picUp": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/hex/HexVirusUpAnim.gif",
-        "picRight": "https://github.com/tranlong45200/FNF-Fireday-Night-funny-mod-test-character-test/raw/main/character%20test/hex/HexVirusRightAnim.gif",
-        "auLeft": "",
-        "auDown": "",
-        "auUp": "",
-        "auRight": ""
     }
 ]
